@@ -1,0 +1,1 @@
+﻿The App_data folder will contain the Fabrikam databases to support this web app.
